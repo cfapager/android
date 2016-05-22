@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "930786701021",
+    "firebase_url": "https://test-cfapager.firebaseio.com",
+    "project_id": "test-cfapager",
+    "storage_bucket": "test-cfapager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930786701021:android:e2b30e682072a3c1",
+        "android_client_info": {
+          "package_name": "com.seventhbeam.cfapager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930786701021-ec68g0v136gao525j0a9puaqv1lhqr0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seventhbeam.cfapager",
+            "certificate_hash": "DCB42EFD0F6D6AC56B490EADD4AAEA8F3311BF1A"
+          }
+        },
+        {
+          "client_id": "930786701021-dtu2t2doneoshgs7nk92ur04fg0i6qt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8owgUgJGVMunyNDkirf3cX-YGTTbstc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
